@@ -1,0 +1,5 @@
+First Name,Last Name,Description,Logon Username,Name,Container
+SCCM_CP,Service,SCCM,SCCM_CP,SCCM_CP,"OU=Solutions,OU=Departments,OU=LabUsers,DC=cmce,DC=lab"
+SCCM_NAA,Service,SCCM,SCCM_NAA,SCCM_NAA,"OU=Solutions,OU=Departments,OU=LabUsers,DC=cmce,DC=lab"
+SCCM_RemoteA,Service,SCCM,SCCM_RemoteA,SCCM_RemoteA,"OU=Solutions,OU=Departments,OU=LabUsers,DC=cmce,DC=lab"
+SCCM_DomJ,Service,SCCM,SCCM_DJ,SCCM_DJ,"OU=Solutions,OU=Departments,OU=LabUsers,DC=cmce,DC=lab"
